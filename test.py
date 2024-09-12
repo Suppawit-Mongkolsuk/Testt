@@ -1,3 +1,3 @@
 print ("hello world")
-print ("kuy")
-print("hee")
+print ("Tee")
+print ("boss")
