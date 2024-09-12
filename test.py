@@ -1,3 +1,5 @@
 print ("hello world")
 print ("Tee")
 print ("boss")
+print ("Tle")
+print ("Gus")
