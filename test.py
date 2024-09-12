@@ -1,6 +1,4 @@
-print ("hello world")
-print ("Tee")
-print ("boss")
-print ("Tle")
-print ("Gus")
-print ("game")
+x = 2 
+y = 1 
+a = x + y
+print(a)
